@@ -1,9 +1,6 @@
-# Challenge ONE | Front End - Portfólio
+# Challenge ONE | Front End - AluraGeek
+
 ---
-![GitHub language count](https://img.shields.io/github/languages/count/jeffersonASilva/alurageek_proj.git)
-
-![GitHub top language](https://img.shields.io/github/languages/top/jeffersonAsilva/projeto_aalurageek_proj.git)
-
 
 <p align="center" >
      <img width="600" heigth="600" src="/img/capa2.png">
