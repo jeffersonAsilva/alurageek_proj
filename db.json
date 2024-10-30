@@ -1,0 +1,78 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        
+        "descricao": "Stormtrooper",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+
+      },
+      {
+        "id": 2,
+        "descricao": "Game Boy Classic",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+      },
+      {
+        "id": 3,
+        "descricao": "Stormtrooper",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+      },
+      {
+        "id": 4,
+        "descricao": "Game Boy Classic",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+      },
+      {
+        "id": 5,
+        "descricao": "Stormtrooper",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+      },
+      {
+        "id": 6,
+       "descricao": "Game Boy Classic",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+      },
+      {
+        "id": 7,
+        "descricao": "Stormtrooper",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+      },
+      {
+        "id": 8,
+        "descricao": "Game Boy Classic",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+      },
+      {
+        "id": 9,
+        "descricao": "Stormtrooper",
+        "imagem": "/img/storm.png",
+        "icone":"/img/lixeira.png",
+        "preco":"R$ 60,00"
+    },
+
+    {
+      "id":10,
+      "descricao":"Homem Aranha",
+      "imagem":"https://rihappy.vtexassets.com/arquivos/ids/4912807/100184971_1.jpg?v=638018919603830000",
+      "icone":"/img/lixeira.png",
+      "preco":"R$ 70,00"
+
+    }
+]
+}  
